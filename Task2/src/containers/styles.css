@@ -1,0 +1,21 @@
+.app{
+  display: flex;
+  justify-content: center;
+}
+
+.copy{
+  margin-bottom: 0;
+  color: #4a7a76;
+  border-radius:15px ;
+  font-size: 22px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#heading{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  
+}
+
